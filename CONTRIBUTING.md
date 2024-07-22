@@ -8,9 +8,9 @@ Contributions of all kinds, including discussion, corrections, additions, and im
 
 The simplest thing you can do to contribute is [fill in this form](https://airtable.com/shr2gAfZnmHSVIDMp). Questions help identify where the guide needs to be improved.
 
-[**File issues**](https://github.com/open-guides/og-aws/issues). Don’t be shy about creating issues. Use them to discuss questions or topics, identify errors, or suggest improvements or new things to cover.
+[**File issues**](https://github.com/jlevy/og-equity-compensation/issues). Don’t be shy about creating issues. Use them to discuss questions or topics, identify errors, or suggest improvements or new things to cover.
 
-[**Pull requests**](https://github.com/open-guides/og-aws/pulls) with changes are even better. Please keep them small and focused, so we can add items individually, and review the conventions below.
+[**Pull requests**](https://github.com/jlevy/og-equity-compensation/pulls) with changes are even better. Please keep them small and focused, so we can add items individually, and review the conventions below.
 
 Please review current issues and pull requests to avoid duplication.
 
